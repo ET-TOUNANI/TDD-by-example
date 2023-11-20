@@ -1,5 +1,6 @@
 # TDD-by-example
 https://tddmanifesto.com/getting-started/
+https://codingdojo.org/kata/Bowling/
 ## Why test first
 If we want to trust our code, we need to be able to trust our tests. If we want to trust our tests we need to be able to see them failing. If we never see our tests fail we don’t know if our tests are actually testing the right things. Seeing a test failing is as important as seeing it passing. A test failure validates that the test is meaningful and unique. It’s a software expectation to fulfill. It gives us a target to aim for, showing that the code we are about to implement is useful and necessary.
 
